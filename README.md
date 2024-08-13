@@ -45,6 +45,10 @@ pip install -r requirements.txt
 python bot.py
 ```
 
+### Permissions
+
+The bot requires **Administrator permissions** to function correctly, as it needs to send direct messages to all members of the server. Ensure that the bot has these permissions to avoid any issues with sending messages.
+
 ## 🎨 Customization
 
 The bot's prefix and other settings can be adjusted directly in the `bot.py` file to suit your server's needs.
