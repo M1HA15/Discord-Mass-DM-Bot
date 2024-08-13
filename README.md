@@ -36,7 +36,7 @@ You can install the dependencies using:
 pip install -r requirements.txt
 ```
 
-###Running the Bot
+### Running the Bot
 
 - Clone this repository.
 - Open the spam.py file and insert your Discord bot token.
