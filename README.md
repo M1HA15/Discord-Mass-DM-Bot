@@ -28,7 +28,7 @@ This bot is designed to be used in **one server at a time**. It ensures that eac
 To get started, you'll need:
 
 - **Python 3.6+**
-- Required Python libraries: `discord.py`, `asyncio`, `pytz`
+- Required **Python libraries**: `discord.py`, `asyncio`, `pytz`
 
 You can install the dependencies using:
 
@@ -47,8 +47,18 @@ python bot.py
 
 ## 🎨 Customization
 
-The bot's prefix and other settings can be adjusted directly in the spam.py file to suit your server's needs.
+The bot's prefix and other settings can be adjusted directly in the `bot.py` file to suit your server's needs.
 
 ## ⚠️ Important Disclaimer
 
-This bot is intended for administrative use only. It is meant to facilitate communication within your server. I am not responsible for any misuse or malicious activities conducted using this bot. Please ensure you comply with [Discord's](https://discord.com/) [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
+This **bot** is **intended** for **administrative use only**. It is meant to **facilitate communication within your server**. **I am not responsible for any misuse or malicious activities conducted using this bot**. Please ensure you **comply** with **[Discord's](https://discord.com/) [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)**.
+
+**Use this tool responsibly, and ensure all members are treated with respect and dignity**.
+
+## 📞 Support
+
+**If you encounter** any **issues** or have any **questions**, **feel free to reach out** to me on **Discord**: `mihaivere`
+
+##📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for more details.
