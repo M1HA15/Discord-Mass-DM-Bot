@@ -61,4 +61,4 @@ This **bot** is **intended** for **administrative use only**. It is meant to **f
 
 ##📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for more details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/M1HA15/Discord-Mass-DM-Bot/blob/main/LICENSE) file for more details.
