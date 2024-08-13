@@ -44,3 +44,11 @@ pip install -r requirements.txt
 ```bash
 python bot.py
 ```
+
+## 🎨 Customization
+
+The bot's prefix and other settings can be adjusted directly in the spam.py file to suit your server's needs.
+
+## ⚠️ Important Disclaimer
+
+This bot is intended for administrative use only. It is meant to facilitate communication within your server. I am not responsible for any misuse or malicious activities conducted using this bot. Please ensure you comply with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
