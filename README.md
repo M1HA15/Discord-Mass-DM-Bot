@@ -59,6 +59,9 @@ This **bot** is **intended** for **administrative use only**. It is meant to **f
 
 **If you encounter** any **issues** or have any **questions**, **feel free to reach out** to me on **Discord**: `mihaivere`
 
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/M1HA15/Discord-Mass-DM-Bot/blob/main/LICENSE) file for more details.
+
+
+## ⭐ **Thank you for using the Discord Mass DM Bot**! Make sure to **star the repository** if you found it **useful**!
