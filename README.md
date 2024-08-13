@@ -51,4 +51,4 @@ The bot's prefix and other settings can be adjusted directly in the spam.py file
 
 ## ⚠️ Important Disclaimer
 
-This bot is intended for administrative use only. It is meant to facilitate communication within your server. I am not responsible for any misuse or malicious activities conducted using this bot. Please ensure you comply with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
+This bot is intended for administrative use only. It is meant to facilitate communication within your server. I am not responsible for any misuse or malicious activities conducted using this bot. Please ensure you comply with [Discord's](https://discord.com/) [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
