@@ -63,5 +63,6 @@ This **bot** is **intended** for **administrative use only**. It is meant to **f
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/M1HA15/Discord-Mass-DM-Bot/blob/main/LICENSE) file for more details.
 
+## 🙏 Acknowledgments:
 
-## ⭐ **Thank you for using the Discord Mass DM Bot**! Make sure to **star the repository** if you found it **useful**!
+**Thank you for using the Discord Mass DM Bot**! Make sure to **star the repository** if you found it **useful**!
