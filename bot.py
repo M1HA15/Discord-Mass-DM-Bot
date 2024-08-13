@@ -123,7 +123,7 @@ async def dm_all(ctx, *, args=None):
         await ctx.author.send(f"✅ **All DMs sent** to `{member_count}` members in the server `{guild_name}`.")
         print(f"All DMs were sent to {member_count} members in the server {guild_name}")
     else:
-        await ctx.channel.send(f"🔴 **Error:** Please provide a message to send to all members of this Discord server!")
+        await ctx.channel.send(f"🔴 **Error**: Please provide a message to send to all members of this Discord server!")
 
 @dm_all.error
 async def dm_all_error(ctx, error):
@@ -181,4 +181,4 @@ async def help_command(ctx):
 
     await ctx.send(embed=embed)
 
-bot.run("bot token here!!!!!")
+bot.run("BOT TOKEN!")
