@@ -28,7 +28,7 @@ This bot is designed to be used in **one server at a time**. It ensures that eac
 To get started, you'll need:
 
 - **Python 3.6+**
-- Required **Python libraries**: `discord.py`, `asyncio`, `pytz`
+- Required **Python libraries**: `discord.py==1.7.3`, `asyncio`, `pytz`
 
 You can install the dependencies using:
 
@@ -70,5 +70,3 @@ This **bot** is **intended** for **administrative use only**. It is meant to **f
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/M1HA15/Discord-Mass-DM-Bot/blob/main/LICENSE) file for more details.
-
-
