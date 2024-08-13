@@ -41,3 +41,6 @@ pip install -r requirements.txt
 - Clone this repository.
 - Open the spam.py file and insert your Discord bot token.
 - Run the bot with:
+```bash
+python bot.py
+```
