@@ -53,7 +53,7 @@ async def on_ready():
     print(f"Check out my other projects on GitHub: https://github.com/M1HA15")
     print(f" ")
 
-    await bot.change_presence(status=discord.Status.online, activity=discord.Game(f'{settings['status']}'))
+    await bot.change_presence(status=discord.Status.online, activity=discord.Game(f"{settings['status']}"))
     
     await asyncio.sleep(5)
     
