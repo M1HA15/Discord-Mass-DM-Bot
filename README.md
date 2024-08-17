@@ -51,7 +51,7 @@ The bot requires **Administrator permissions** to function correctly, as it need
 
 ## 🎨 Customization
 
-You can customize the bot's prefix and status message directly in the settings.json file:
+You can customize the bot's prefix and status message directly in the `settings.json` file:
 ```json
 {
     "token": "your-bot-token-here",
